@@ -1,0 +1,32 @@
+
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.Text {
+    position: fixed;
+    top: 730px;
+    color: white;
+}
+
+
+.Buttons button:hover {
+    height: 3rem;
+    width: 7.5rem;
+    border: 1px solid white;
+}
+
+.Buttons {
+    position: relative;
+    top: 200px;
+    font-size: 5rem;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
